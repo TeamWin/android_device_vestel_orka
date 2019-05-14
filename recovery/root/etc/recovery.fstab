@@ -27,7 +27,7 @@
 /system		ext4	/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/system
 /system_image	emmc	/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/system
 /cache		ext4	/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/cache
-/data		ext4	/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/userdata		flags=encryptable=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/metadata
+/data		ext4	/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/userdata
 #/flashinfo	emmc	/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/flashinfo
 /external_sd	auto	/dev/block/mmcblk1p1	/dev/block/mmcblk1	flags=display="External SDcard";storage;wipeingui;removable;backup=0
 /usbotg		auto    /dev/block/sda1		/dev/block/sda		flags=display="Usb-Otg";storage;removable;backup=0
