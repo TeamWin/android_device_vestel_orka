@@ -4,7 +4,8 @@ Device Tree for Vestel Venus V4 (Orka)
 ============================================================
 Basic   | Specifications
 -------:|:-------------------------
-CHIPSET | MediaTek MT6737M Quad Core 1.25 GHz
+Chipset | MediaTek MT6737M
+CPU | ARM Cortex-A53, Quad-Core, 1.25 GHz
 GPU     | Mali-T720 MP1
 Memory  | 3 GB
 Shipped Android Version | 7.0
