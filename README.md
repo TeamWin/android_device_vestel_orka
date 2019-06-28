@@ -12,8 +12,8 @@ Shipped Android Version | (8.1 GO Edition)
 Storage | 8 GB
 MicroSD | Up to 64 GB
 Battery | 2350 mAh (removable)
-Display | 1280 x 720 pixels, 5.0"
-Rear Camera  | 8.0 MP
+Display | 1280 x 720 pixels, 5.5"
+Rear Camera  | 13.0 MP
 Front Camera | 5.0 MP
 
-![AdaGo](https://www.vestel.com.tr/ProductImages/LargeImagesNew/20291225_r1.png "AdaGo")
+![Venus_V4](https://st3.myideasoft.com/idea/dp/82/myassets/products/974/x.png?revision=1515595621 "Venus_V4")
